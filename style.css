@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: url('https://cdn.discordapp.com/attachments/919860069535989806/921805922509131797/istockphoto-1204190876-170667a.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.All{
+color: #8000ff;
+font-family: "Agus Sans";
+font-size: 50px;
+text-align: center;
+}
+.coding{
+position: relative;
+left: 10px;
+}
+.Prem{
+position: relative;
+left: 20px;
+color: aliceblue;
+font-family: "Azonix";
+font-size: 16px;
+}
